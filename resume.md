@@ -1,60 +1,77 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+
+# Rissa Nafilah Arifin
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+
+- <rissanafilah@gmail.com>
+- 082242760511
+- [Linkedin](https://www.linkedin.com/in/rissa-nafilah-arifin-8793b114b/)
+- [Github](https://github.com/nafilah17)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+
+Experienced front-end engineer who is working with HTML/CSS, Javascript to deliver customer experiences. looking for an opportunity to work at a company with a positive social mission.
+
+## Education
+
+### <span>University of Merdeka, Malang Indonesia</span> <span>2013 -- 2017</span>
+
+- Bachelor of Information System
+
+## Skills
+
+- Web development: HTML, CSS, JavaScript
+- Technologies: React/NextJS, AntDesign/ChakraUI
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+### <span>Frontend Engineer, Degetek Studio</span> <span>July 2020 -- Dec 2021</span>
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+- Get designs from the UI/UX team to be implemented into website pages and be able to maximize the user experience;
+- Create web pages using various markup language variants;
+- Work closely with back end developers to do coding and troubleshooting.
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+### <span>Staff IT, Yayasan Dana Sosial Al Falah</span> <span>Sept 2018 -- Dec 2019</span>
 
-Global movement of free coding clubs for young people.
+- Hardware, Software Maintenance and Network design implementation
+- Manage and update website content
 
- - Awarded 'Teacher of the Month'
+## <span>Substitute Teacher, MIN 1 Malang</span> <span>July -- Aug 2018</span>
+
+- Introducing computer basics for students
+- Prepare modules for teaching
+
+## <span>Hardcrew FTI</span> <span>Jan 2014 -- Dec 2016</span>
+
+- Hardware, Network Maintenance, and Software installation
+- Prepared tools and module for practicum hardware and network
 
 ## Projects
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### <span>Ace Diary Mobile Apps and Websites</span> <span>2021</span>
 
-A mapping engine that misguides you:
+Android Based Counseling Application that help Universitas Negeri Malang to facilitate Counseling Guideance for the student. Implementation design from Figma into website use ReactJs and ChakraUI Create dashboard page to present data or information and personalize website
+<br>
+Tech stack: React/NextJS, ChakraUI
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+### <span>Information System of Scholarship Registration and Management</span> <span>2020 - 2021</span>
 
-## Education
+Implementation design from Figma into website use ReactJs and ChakraUI Create landing page and dashboard page to present data or information and personalize website
+<br>
+Tech stack: React/NextJS, ChakraUI
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### <span>Mini Workshop AxarSchool Content Video</span> <span>2020</span>
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+Provide course content on youtube how to make a simple web profile with HTML, CSS, and Javascript for AxarSchool.
 
-## Skills
+### <span>Information System of Cooperative</span> <span>2020</span>
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+Cooperative Management system that helps cooperative management manage the savings and loans, bills, finance, accounting and membership become easier, safer, and faster. Create landing page dashboard page to present data or information and personalize website
+<br>
+Tech stack: React/NextJS, Ant Design
