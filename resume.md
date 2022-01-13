@@ -8,7 +8,6 @@ line. It is intended to be used for contact details -->
 - <rissanafilah@gmail.com>
 - 082242760511
 - [Linkedin](https://www.linkedin.com/in/rissa-nafilah-arifin-8793b114b/)
-- [Github](https://github.com/nafilah17)
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
