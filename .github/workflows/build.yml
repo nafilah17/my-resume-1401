@@ -19,7 +19,7 @@ jobs:
     - name: Install markdown
       run: pip3 install markdown
     - name: Make resume
-      run: python3 resume.py --debug
+      run: python3 resume.py
     - name: Rename output
       if: ${{ matrix.os != 'windows-latest' }}
       run: |
